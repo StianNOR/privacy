@@ -51,7 +51,7 @@ Start with data exports → permanent account deletions → switch to privacy-fi
 - 🌐 **Firefox** + **uBlock Origin, Privacy Badger, HTTPS Everywhere, Decentraleyes, NoScript** (instead of Chrome)
        https://www.firefox.com/nb-NO/browsers/desktop/windows/
        
-       - Extensions:
+  - Extensions:
        - uBlock Origin    = https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
        - Privacy Badger   = https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
        - HTTPS Everywhere = https://addons.mozilla.org/en-US/firefox/addon/https-everywhere-lite/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
