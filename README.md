@@ -128,7 +128,7 @@ macOS is a middle ground. While Apple’s business model is not based on selling
 1. 🦊 **Browser:** Ditch Chrome → Use Hardened Firefox.
 2. ✉️ **Email:** Ditch Gmail → Use Proton or Tuta.
 3. 💻 **OS:** Ditch Windows → Use Linux (or AtlasOS).
-4. 🔑 **Passwords:** → Use [**Bitwarden**](https://bitwarden.com/).
+4. 🔑 **Passwords:** Ditch Reusing Passwords → Use [**Bitwarden**](https://bitwarden.com/).
 
 ---
 *Your data, your rules. Take back control today! ✊*
