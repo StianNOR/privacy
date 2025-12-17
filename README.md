@@ -43,5 +43,48 @@ To maximize your protection, install these on desktop:
 * [**NoScript**](https://addons.mozilla.org/en-US/firefox/addon/noscript/) – Prevents malicious scripts from running.
 * [**LocalCDN**](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) – Protects against tracking via Content Delivery Networks.
 
+`
+🔧 Hardening Firefox (Quick Setup)
+Stop the leaks by adjusting these built-in settings. Open Firefox and go to Settings:
+
+1. 🛡️ Set Tracking Protection to "Strict"
+Go to Privacy & Security → Enhanced Tracking Protection.
+
+Select Strict.
+
+Why? This blocks social media trackers, fingerprinters, and cross-site cookies more aggressively than the default.
+
+2. 🔒 Enable HTTPS-Only Mode
+Scroll down to Security in the Privacy & Security panel.
+
+Select Enable HTTPS-Only Mode in all windows.
+
+Why? This ensures your connection is always encrypted. If a site doesn't support it, Firefox will warn you before connecting.
+
+
+3. 🔍 Switch to DuckDuckGo
+Go to Search in the left sidebar.
+
+Under Default Search Engine, select DuckDuckGo.
+
+Pro Tip: Uncheck "Show search suggestions" to prevent your keystrokes from being sent to the search engine in real-time.
+
+🚫 4. Disable Telemetry (Data Collection)
+Go to Privacy & Security → Firefox Data Collection and Use.
+
+Uncheck all boxes (Technical data, Backlogged crash reports, etc.).
+
+Why? Even "anonymous" data can be used to profile your device.
+`
+
+
+### ⚖️ A Note on DuckDuckGo
+While we recommend DuckDuckGo over Google, no service is perfect. According to [ToS;DR](https://tosdr.org/en/service/220):
+* ⚠️ **Implicit Consent:** They assume you agree to their terms just by using the site.
+* ⚠️ **Term Changes:** They may update their privacy policy without emailing you first.
+* ✅ **Anonymity:** No registration is required, and they provide a [Tor Onion Service](https://duckduckgogg42xjoc72x3sja7o78xcotqf65c666m6ha6p26766id.onion/) for maximum privacy.
+
+**Alternative:** If you want even more control, try [SearXNG](https://searxng.org/) (a meta-search engine you can self-host).
+
 ---
 *Your data, your rules. Take back control today! ✊*
