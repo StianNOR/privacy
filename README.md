@@ -9,7 +9,7 @@ Recent escalations include:
 - 💰 **"Pay or OK" subscriptions** – privacy behind a paywall  
 - 🔗 **Deeper data linking** across apps  
 
-**Why leave?** Reduces large-scale tracking of your behavior, limiting what one company can infer, store, and **monetize** about your life. [web:1][web:2][web:5]
+**Why leave?** Reduces large-scale tracking of your behavior, limiting what one company can infer, store, and **monetize** about your life.
 
 ## Snapchat: Not as Innocent as It Seems 📱👻
 Snapchat has **significant privacy pitfalls**:  
@@ -18,10 +18,8 @@ Snapchat has **significant privacy pitfalls**:
 - 🧠 **AI training** on your snaps and chats  
 - ⚖️ **Broad data sharing** with partners & law enforcement  
 
-Especially risky for **teens** and high-risk users. It's no ad-tech behemoth like Meta, but don't mistake it for "safe." **Quit or lock it down hard.** [web:11][web:12][web:14]
+Especially risky for **teens** and high-risk users. It's no ad-tech behemoth like Meta, but don't mistake it for "safe." **Quit or lock it down hard.**
 
 ---
-
-**💡 Pro Tip:** Start with data exports, delete accounts permanently, and switch to privacy-first alternatives like Signal 🚀 or Matrix.  
 
 *Your data, your rules. Take back control today! ✊*
