@@ -20,6 +20,27 @@ Snapchat has **significant privacy pitfalls**:
 
 Especially risky for **teens** and high-risk users. It's no ad-tech behemoth like Meta, but don't mistake it for "safe." **Quit or lock it down hard.**
 
----
+## Google: The Tracking Empire 🏢📍
+Google (Search, Chrome, Maps, YouTube, Gmail, Android) builds **detailed profiles** from your searches, location history, emails, and app usage.  
+Key issues:  
+- 🌐 **Cross-device tracking** via fingerprinting and cookies  
+- 📱 **Location history** that knows your every move  
+- 🔍 **Search data** shared with advertisers and now competitors  
+
+**Why de-Google?** One company tracks nearly everything you do online and offline. Switch to alternatives like DuckDuckGo, Firefox, and ProtonMail.
+
+## TikTok: Data Vacuum from China 🇨🇳📱
+TikTok collects **everything**: keystrokes, face scans, location, contacts, and viewing habits for hyper-personalized feeds.  
+- ⚠️ **Geopolitical risks** (ByteDance under Chinese law)  
+- 🕵️ **Staff accessing data** to spy on journalists  
+- 📈 **Addictive algorithms** powered by your data  
+
+**Why quit?** Extreme profiling + national security concerns make it a privacy nightmare.
+
+
+
+
+
+
 
 *Your data, your rules. Take back control today! ✊*
