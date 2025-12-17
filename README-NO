@@ -51,7 +51,7 @@ Før du sletter alt, hent ut dataene dine slik at "Gigantene" ikke eier din hist
 ### 🛡️ 1. Sett sporingsbeskyttelse til "Streng"
 1. Gå til **Personvern og sikkerhet**.
 2. Under **Utvidet sporingsbeskyttelse**, velg **Streng**.
-> **Hvorfor?** Dette blokkerer sosiale medier-sporrere, fingeravtrykk-identifisering og informasjonskapsler mer aggressivt enn standardmodus.
+> **Hvorfor?** Dette blokkerer sosiale medier-sporrere, fingeravtrykk-identifisering og informasjonskapsler på tvers av nettsteder mer aggressivt enn standardmodus.
 
 ### 🔒 2. Aktiver Modus for kun HTTPS
 1. Bli værende i **Personvern og sikkerhet** og rull ned til **Sikkerhet**.
@@ -82,7 +82,7 @@ Hvis du foretrekker [SearXNG](https://searxng.org/) over DuckDuckGo:
 3. Gå til Firefox **Innstillinger** → **Søk** og sett den som din **Standard søkemotor**.
 
 > [!IMPORTANT]
-> **Kun for avansert bruk:** Dette er et verktøy for brukere som søker maksimal anonymitet. Siden det drives av frivillige "instanser", kan det være tregere eller til tider utilgjengelig. For de fleste vil DuckDuckGo gi den beste balansen.
+> **Kun for avansert bruk:** Dette er et verktøy for brukere som søker maksimal anonymitet. Siden det drives av frivillige "instanser", kan det være tregere eller til tider utilgjengelig. For de fleste vil DuckDuckGo gi den beste balansen mellom personvern og pålitelighet.
 
 **Hvorfor bruke det?** SearXNG samler resultater fra over 70 søkemotorer (Google, Bing, etc.) uten å logge din IP-adresse eller søkehistorikk.
 
@@ -106,7 +106,7 @@ Hvis du virkelig vil eie din egen maskinvare, må du se på "hjernen" i datamask
 I 2025 har Windows utviklet seg fra et verktøy til "tjeneste-orientert spionprogramvare." 
 * 📸 **Recall & AI:** Microsoft har introdusert funksjoner som tar periodiske skjermbilder av skrivebordet ditt for å gjøre livet ditt "søkbart" – noe som skaper en massiv sikkerhetsrisiko.
 * 📡 **Tvungen telemetri:** Windows sender gigabyte med data tilbake til serverne, inkludert app-bruk, søk og maskinvare-ID-er.
-* 🔓 **Ingen lokal kontroll:** Det blir stadig vanskeligere å bruke Windows uten en obligatorisk Microsoft-konto i skyen.
+* 🔓 **Ingen lokal kontroll:** Det blir stadig vanskeligere å bruke Windows uten en obligatorisk Microsoft Cloud-konto.
 
 ### 🐧 Alternativ A: Linux-veien (Anbefales sterkt)
 Linux er åpen kildekode, som betyr at koden er offentlig og revidert av nettsamfunnet. Det inneholder ingen skjulte bakdører.
@@ -116,9 +116,9 @@ Hvis du må beholde Windows for spill eller spesialisert programvare, ikke bruk 
 * [**AtlasOS**](https://atlasos.net/): Et åpen kildekode-prosjekt som stripper Windows for sporing, bloatware og telemetri.
 * [**Privacy.sexy**](https://privacy.sexy/): Et verktøy som genererer skript for å deaktivere hundrevis av Windows-sporingsfunksjoner med ett klikk.
 
-### 🍎 Hva med macOS?
+### 🍎 Hva om macOS?
 macOS er en mellomting. Selv om Apples forretningsmodell ikke er basert på å selge dataene dine, forblir det en "lukket hage."
-* **Det gode:** Bedre kontroll på app-sporing enn Windows.
+* **Det gode:** Bedre "App Tracking Transparency" enn Windows.
 * **Det dårlige:** Lukket kildekode. Du må stole på Apples ord om at de ikke skanner dine lokale filer.
 * **Vurderingen:** Bedre enn Windows, men ikke så privat som et godt konfigurert Linux-system.
 
