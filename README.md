@@ -43,40 +43,32 @@ To maximize your protection, install these on desktop:
 * [**NoScript**](https://addons.mozilla.org/en-US/firefox/addon/noscript/) – Prevents malicious scripts from running.
 * [**LocalCDN**](https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/) – Protects against tracking via Content Delivery Networks.
 
-`
-🔧 Hardening Firefox (Quick Setup)
-Stop the leaks by adjusting these built-in settings. Open Firefox and go to Settings:
+---
 
-1. 🛡️ Set Tracking Protection to "Strict"
-Go to Privacy & Security → Enhanced Tracking Protection.
+## 🔧 Hardening Firefox (Quick Setup)
+*Stop the leaks by adjusting these built-in settings. Open Firefox and go to **Settings**:*
 
-Select Strict.
+### 🛡️ 1. Set Tracking Protection to "Strict"
+1. Navigate to **Privacy & Security**.
+2. Under **Enhanced Tracking Protection**, select **Strict**.
+> **Why?** This blocks social media trackers, fingerprinters, and cross-site cookies more aggressively than the default mode.
 
-Why? This blocks social media trackers, fingerprinters, and cross-site cookies more aggressively than the default.
+### 🔒 2. Enable HTTPS-Only Mode
+1. Stay in **Privacy & Security** and scroll down to **Security**.
+2. Select **Enable HTTPS-Only Mode in all windows**.
+> **Why?** This ensures your connection is always encrypted. Firefox will warn you before connecting to an insecure (HTTP) site.
 
-2. 🔒 Enable HTTPS-Only Mode
-Scroll down to Security in the Privacy & Security panel.
+### 🔍 3. Switch to DuckDuckGo
+1. Go to **Search** in the left sidebar.
+2. Under **Default Search Engine**, select **DuckDuckGo**.
+3. **Pro Tip:** Uncheck *"Show search suggestions"* to stop your keystrokes from being sent to the server in real-time.
 
-Select Enable HTTPS-Only Mode in all windows.
+### 🚫 4. Disable Telemetry
+1. Go to **Privacy & Security** → **Firefox Data Collection and Use**.
+2. **Uncheck** all boxes (Technical data, crash reports, etc.).
+> **Why?** Prevents "anonymous" usage data from being sent back to Mozilla, reducing your device's unique fingerprint.
 
-Why? This ensures your connection is always encrypted. If a site doesn't support it, Firefox will warn you before connecting.
-
-
-3. 🔍 Switch to DuckDuckGo
-Go to Search in the left sidebar.
-
-Under Default Search Engine, select DuckDuckGo.
-
-Pro Tip: Uncheck "Show search suggestions" to prevent your keystrokes from being sent to the search engine in real-time.
-
-🚫 4. Disable Telemetry (Data Collection)
-Go to Privacy & Security → Firefox Data Collection and Use.
-
-Uncheck all boxes (Technical data, Backlogged crash reports, etc.).
-
-Why? Even "anonymous" data can be used to profile your device.
-`
-
+---
 
 ### ⚖️ A Note on DuckDuckGo
 While we recommend DuckDuckGo over Google, no service is perfect. According to [ToS;DR](https://tosdr.org/en/service/220):
