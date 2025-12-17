@@ -76,7 +76,15 @@ While we recommend DuckDuckGo over Google, no service is perfect. According to [
 * ⚠️ **Term Changes:** They may update their privacy policy without emailing you first.
 * ✅ **Anonymity:** No registration is required, and they provide a [Tor Onion Service](https://duckduckgogg42xjoc72x3sja7o78xcotqf65c666m6ha6p26766id.onion/) for maximum privacy.
 
-**Alternative:** If you want even more control, try [SearXNG](https://searxng.org/) (a meta-search engine you can self-host).
+### 🌀 How to use SearXNG in Firefox
+If you prefer [SearXNG](https://searxng.org/) over DuckDuckGo:
+1. Visit a public instance like [searxng.site](https://searxng.site).
+2. Right-click the address bar and select **"Add Search Engine"**.
+3. Go to Firefox **Settings** → **Search** and set it as your **Default Search Engine**.
 
+> [!IMPORTANT]
+> **Strict Usage Only:** This is an advanced tool for users seeking maximum anonymity. Because it relies on volunteer-run "instances," it can be slower or occasionally go offline. For most users, DuckDuckGo provides the best balance of privacy and reliability.
+
+**Why use it?** SearXNG aggregates results from 70+ search engines (Google, Bing, etc.) without logging your IP address or search history.
 ---
 *Your data, your rules. Take back control today! ✊*
