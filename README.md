@@ -12,9 +12,8 @@ PS: Du kan treffe meg på:
 
 --------------------------------------------------------------------------------------------
 
-###
-Discord:   https://discord.gg/CxM6TDwbvv
-MeWe:      https://mewe.com/stiannor
-Session:   05f083e2d38fd70209392fdb64219041383b27bfbba045295db16fbf9c31cc9c60
-Mail:      stiannor@tutamail.com
-###
+
+* Discord:   https://discord.gg/CxM6TDwbvv
+* MeWe:      https://mewe.com/stiannor
+* Session:   05f083e2d38fd70209392fdb64219041383b27bfbba045295db16fbf9c31cc9c60
+* Mail:      stiannor@tutamail.com
