@@ -38,6 +38,15 @@ TikTok collects **everything**: keystrokes, face scans, location, contacts, and 
 **Why quit?** Extreme profiling + national security concerns make it a privacy nightmare.
 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**💡 Pro Tip:**  
+Start with data exports → permanent account deletions → switch to privacy-first alternatives:  
+- 📱 **Signal** (instead of WhatsApp)  
+- 🔍 **DuckDuckGo** (instead of Google Search)  
+- 🌐 **Firefox** (instead of Chrome)  
+- ✉️ **ProtonMail** (instead of Gmail)  
+- 🎵 **NewPipe** (instead of YouTube app)  
 
 
 
