@@ -40,7 +40,7 @@ Before you hit delete, grab your data so the "Giants" don't own your history:
 | **Google Search** | [DuckDuckGo](https://duckduckgo.com) or [SearXNG](https://searxng.org/) |
 | **Gmail** | [Tuta](https://tuta.com/) or [Proton Mail](https://proton.me/mail) |
 | **Chrome** | [Firefox](https://www.mozilla.org/firefox/new/) (Hardened) |
-| **Facebook/Twitter** | [MeWe](https://mewe.com) or [Mastodon](https://joinmastodon.org/) |
+| **Facebook/Twitter** | [MeWe](https://mewe.com) |
 | **Instagram** | [Pixelfed](https://pixelfed.org/) (Federated photo sharing) |
 
 ---
