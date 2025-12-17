@@ -45,9 +45,20 @@ TikTok collects **everything**: keystrokes, face scans, location, contacts, and 
 **💡 Pro Tip:**  
 Start with data exports → permanent account deletions → switch to privacy-first alternatives:  
 
-- 📱 **Session** (instead of WhatsApp/Messenger)  
-- 🔍 **DuckDuckGo** (instead of Google Search)  
-- 🌐 **Firefox** + **uBlock Origin, Privacy Badger, HTTPS Everywhere, Decentraleyes, NoScript** (instead of Chrome)  
+- 📱 **Session** (instead of WhatsApp/Messenger)
+       https://getsession.org/
+  
+- 🌐 **Firefox** + **uBlock Origin, Privacy Badger, HTTPS Everywhere, Decentraleyes, NoScript** (instead of Chrome)
+       https://www.firefox.com/nb-NO/browsers/desktop/windows/
+       
+       - Extensions:
+       - uBlock Origin    = https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+       - Privacy Badger   = https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+       - HTTPS Everywhere = https://addons.mozilla.org/en-US/firefox/addon/https-everywhere-lite/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+       - Decentraleyes    = https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/
+       - NoScript         = https://addons.mozilla.org/en-US/firefox/addon/noscript/
+       
+- 🔍 **DuckDuckGo** (instead of Google Search)
 - ✉️ **TutaMail** (instead of Gmail)  
 - 🎵 **NewPipe** (instead of YouTube app)  
 - 👥 **MeWe** (instead of Facebook)  
