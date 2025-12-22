@@ -37,7 +37,7 @@ Før du sletter alt, hent ut dataene dine slik at "Gigantene" ikke eier din hist
 | Tjeneste | Personvernfokusert alternativ |
 | :--- | :--- |
 | **Messenger/WhatsApp** | [Session](https://getsession.org/) (Ingen telefonnummer nødvendig) |
-| **Google Søk** | [DuckDuckGo](https://duckduckgo.com) or [StartPage](https://www.startpage.com/)) |
+| **Google Søk** | [DuckDuckGo](https://duckduckgo.com) or [StartPage](https://www.startpage.com/) Advanced = SearXNG |
 | **Gmail** | [Tuta](https://tuta.com/) |
 | **Chrome** | [Firefox](https://www.mozilla.org/firefox/new/) (Hardened) |
 | **Facebook/Twitter** | [MeWe](https://mewe.com) |
