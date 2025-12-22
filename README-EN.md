@@ -37,8 +37,8 @@ Before you hit delete, grab your data so the "Giants" don't own your history:
 | Service | Privacy-First Alternative |
 | :--- | :--- |
 | **Messenger/WhatsApp** | [Session](https://getsession.org/) (No phone number required) |
-| **Google Search** | [DuckDuckGo](https://duckduckgo.com) or [SearXNG](https://searxng.org/) |
-| **Gmail** | [Tuta](https://tuta.com/) or [Proton Mail](https://proton.me/mail) |
+| **Google Search** | [DuckDuckGo](https://duckduckgo.com) or [StartPage](https://www.startpage.com/)) |
+| **Gmail** | [Tuta](https://tuta.com/) |
 | **Chrome** | [Firefox](https://www.mozilla.org/firefox/new/) (Hardened) |
 | **Facebook/Twitter** | [MeWe](https://mewe.com) |
 | **Instagram** | [Pixelfed](https://pixelfed.org/) (Federated photo sharing) |
