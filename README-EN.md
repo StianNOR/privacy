@@ -96,6 +96,21 @@ If you prefer [SearXNG](https://searxng.org/) over DuckDuckGo:
 ---
 *Your data, your rules. Take back control today! ✊*
 
+## Recommended firefox extensions:
+
+uBlock Origin:,
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Ghostery:,
+https://addons.mozilla.org/en-US/firefox/addon/ghostery/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Privacy Badger:,
+https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Decentraleyes:,
+https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Bitwarden Password Manager:,
+https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+Startpage:,
+https://addons.mozilla.org/en-US/firefox/addon/startpage-private-search/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
+
 
 ---
 
